@@ -24,10 +24,11 @@
 } */
 
 .info h2 {
-    color: #fff;
+    color: #000;
     margin: 20px 0;
     font-size: 30px;
     font-family: 'Inter';
+
 }
 
 .info p {
@@ -111,7 +112,7 @@
     
     }
     .info h2 {
-        color: #fff;
+        color: #000;
         margin: 10px 0;
         font-size: 15px;
     }
